@@ -25,5 +25,5 @@ cclass =(sum(diag(cm))/nrow(tsd))*100
 mclass = 100-cclass
 
 
-#------------
+#--------------
 
